@@ -24,7 +24,7 @@ These files allow you to try out the script and understand its functionality.
 To run the script, use the following command in your terminal:
 
 ```bash
-python seq_checker.py reference_sample.fasta filtered_sample.fasta
+python seq_checker.py ref_seqs.fasta check_seqs.fasta
 ```
 
 Replace `ref_seqs.fasta` and `check_seqs.fasta` with your own file names if needed.
