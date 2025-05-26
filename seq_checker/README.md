@@ -1,6 +1,6 @@
 # Sequence Checker
 
-This is a Python script that compares amino acid sequences between two FASTA files. It checks whether each sequence in a target file is also present in a reference file. 
+This is a Python script that compares sequences between two FASTA files. It checks whether each sequence in a target file is also present in a reference file. 
 
 This script was developed to verify the correctness of filtered or processed FASTA files by ensuring that all sequences originate from the original dataset.
 
